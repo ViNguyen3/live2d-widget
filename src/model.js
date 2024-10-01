@@ -15,6 +15,7 @@ class Model {
         }
         this.useCDN = useCDN;
         this.apiPath = apiPath;
+        cdnPath = "https://fastly.jsdelivr.net/gh/ViNguyen3/live2d_api/	";
         this.cdnPath = cdnPath;
     }
 
